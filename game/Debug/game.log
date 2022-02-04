@@ -1,0 +1,35 @@
+﻿  Main.cpp
+c:\study\flappybird\game\game\pipes.cpp(22): warning C4305: инициализация: усечение из "double" в "float"
+c:\study\flappybird\game\game\pipes.cpp(84): warning C4244: =: преобразование "const int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\study\flappybird\game\game\pipes.cpp(87): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\study\flappybird\game\game\bird.cpp(15): warning C4305: инициализация: усечение из "double" в "const float"
+c:\study\flappybird\game\game\bird.cpp(62): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\study\flappybird\game\game\bird.cpp(81): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\study\flappybird\game\game\main.cpp(59): warning C4305: аргумент: усечение из "double" в "float"
+c:\study\flappybird\game\game\main.cpp(62): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  Pipes.cpp
+c:\study\flappybird\game\game\pipes.cpp(22): warning C4305: инициализация: усечение из "double" в "float"
+c:\study\flappybird\game\game\pipes.cpp(84): warning C4244: =: преобразование "const int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\study\flappybird\game\game\pipes.cpp(87): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  Создание кода...
+  game.vcxproj -> C:\study\FlappyBird\game\Debug\game.exe
